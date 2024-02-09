@@ -198,7 +198,7 @@ for(replicate in 2:n_replicates) {
   print(replicate)
   # Simulate
   data <- rbind(data,
-                cbind(simulate(neurons_p, neurons_activation, max_time, MH_samples),
+                cbind(simulate(max_time, MH_samples),
                 replicate,
                 1:max_time))
 }
