@@ -3,7 +3,7 @@ Here is the replication of the neural model of "The geometry of decision-making 
 
 ## Background
 
-Collective decision-making occurs at various biological scales: both groups of individuals and collections of neurons integrate information to make decisions. In addition, the geometry of a decision-making problem could be key to understand the mechanisms underlying movement decisions. 
+Collective decision-making occurs at various biological scales: both groups of individuals and collections of neurons integrate information to make decisions. In addition, the geometry of a decision-making problem could be key to understand how movement decisions are made. 
 This very cool paper uses both theory and experiments to investigate how geometry could influence decision-making at mulitple biological scales, both collections of individuals and collections of neurons. They find that when the angular difference between attracting options is below a critical threshold, collectives average the possible directions, but once the angular difference exceeds the critical threshold, the collective breaks symmetry and makes a "consensus" decision towards one of the options. The incresed sensitivity near cricitcality might also provide decision-making advantages, which despite often suggested has never been definetly proved. This cool paper goes very well in that direction! I have replicated the neural decision-making model, which implements a Hopfiel network, a simple type of fully connnected binary network which have been extensively used in pyshics, molecular biology, and neurosciences. 
 
 ## Code
