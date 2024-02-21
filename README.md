@@ -1,5 +1,5 @@
 # spatial_decision_making
-Here is the replication of the neural model of "The geometry of decision-making in individuals and collectives" Vivek H. Sridhar, Liang Li, Dan Gorbonos, Máté Nagy, Bianca R. Schell, Timothy Sorochkin, Nir S. Gov and Iain D. Couzin https://doi.org/10.1073/pnas.1811964115
+Here is the replication of the neural model of "The geometry of decision-making in individuals and collectives" Vivek H. Sridhar, Liang Li, Dan Gorbonos, Máté Nagy, Bianca R. Schell, Timothy Sorochkin, Nir S. Gov and Iain D. Couzin [https://doi.org/10.1073/pnas.1811964115](https://www.pnas.org/doi/full/10.1073/pnas.2102157118)
 
 ## Background
 
